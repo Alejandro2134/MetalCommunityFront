@@ -16,7 +16,7 @@ const MyApp = ({ Component, pageProps }) => {
                     <div className='navbar-brand'>
                         <Link href='/'>
                             <a className='navbar-item'>
-                                <img src='MetalCommunity.png' alt='logo'/>
+                                <img src='MetalCommunity.png' alt='logo' width='210'/>
                             </a>
                         </Link>
 
